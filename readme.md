@@ -1,6 +1,8 @@
 # News Feed System
 
-# Directory Structure:
+# Get Started:
+
+## Directory Structure:
 
 ```
 newsfeed
@@ -15,13 +17,14 @@ newsfeed
 	|-----statistics.txt
 ```
 
-# Get Started:
-
+```
 pip install -r requirements.txt
+```
 
 ## To scrape news and store json files in your output directory and MongoDB
-
+```
 sh newsfeed.sh
+```
 
 Configuration Available:
 ```
@@ -45,8 +48,9 @@ It will store json files in the output directory provided.
 And will store data in MongoDB in database 'news_db' and container 'news'
 
 ## Start Flask Server
-
-sh news_server.sh 
+```
+sh news_server.sh
+``` 
 
 Api hosted at:
 ```
