@@ -250,11 +250,6 @@ def getstatistics(all_articles):
 		logging.exception('Could Not Write Statistics!')
 
 
-
-
-
-
-
 def news_scrape_pipeline():
 	
 	'''

@@ -1,4 +1,6 @@
 # News Feed System
+One stop solution to get all the news in the financial domain!
+Saves the news as json files in your directory as well as in MongoDB.
 
 # Get Started:
 
@@ -16,6 +18,12 @@ newsfeed
 	|-----symbols.csv
 	|-----statistics.txt
 ```
+
+## Database Required
+
+MongoDB
+
+## Run on your system
 
 ```
 pip install -r requirements.txt
