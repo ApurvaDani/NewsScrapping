@@ -138,14 +138,9 @@ def get_links_to_scrape(symbols, source):
 		try:
 			symbol_link = []
 			link_to_scrape = getlink(extension, source)
-			# link_to_scrape =  'https://in.finance.yahoo.com/quote/'+extension+'/news?p='+extension
 			response = requests.get(link_to_scrape)
 			soup = BeautifulSoup(response.text, 'lxml')
 			symbol_link = parse_html(soup, source)
-			# h3divs = soup.findAll("h3", {"class": "Mb(5px)"})
-			# for tag in h3divs:
-			# 	links = [a.attrs.get('href') for a in tag.select('a')]
-			# 	symbol_link.append(links[0])
 			news_to_scrape[extension] = symbol_link
 		except:
 			logging.exception('Finding links to srape for security Failed!')
@@ -253,11 +248,6 @@ def getstatistics(all_articles):
 				f.write(str(key)+': '+str(value)+'\n')
 	except:
 		logging.exception('Could Not Write Statistics!')
-
-
-
-
-
 
 
 def news_scrape_pipeline():
