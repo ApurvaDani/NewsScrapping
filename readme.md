@@ -33,9 +33,9 @@ source_dir="./news_source.txt"
 total_symbols=4
 ```
 
-To change your output directory change the output_dir variable in newsfeed.sh
-To change news sources modify the file news_source.txt from the below options
-To modify the number of symbols for which you want to scrape data, modify total_symbols variable in newsfeed.sh
+To change your output directory change the output_dir variable in newsfeed.sh.
+To change news sources modify the file news_source.txt from the below options.
+To modify the number of symbols for which you want to scrape data, modify total_symbols variable in newsfeed.sh.
 
 Note: App is compatible to scrape news from three websites:
 ```
