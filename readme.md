@@ -67,4 +67,11 @@ http://localhost:5000/getnews
 
 You can send requests to the above link to check the output.
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+|	| --- |
+|	| Colspace |
+| --- | --- |
+| normal | hey |

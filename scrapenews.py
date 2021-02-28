@@ -21,7 +21,7 @@ import logging
 parser = argparse.ArgumentParser(description='News Paper Scrapping Script')
 parser.add_argument('--output_dir', default='output/', type=Path, help='save json file here')
 parser.add_argument('--source_path', default='./news_source.txt', type=Path, help='Sources to be scrapped')
-parser.add_argument('--total_symbols', default=5, type=int, help='Total Symbols to be scraped')
+parser.add_argument('--total_symbols', default=1, type=int, help='Total Symbols to be scraped')
 args = parser.parse_args()
 logging.basicConfig(filename='app.log', filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',level=logging.DEBUG,datefmt='%d-%b-%y %H:%M:%S')
 
@@ -179,7 +179,7 @@ def scrape_articles(news_to_scrape, client, collection_news, savedir, news_id, a
 					jsonfile['authors'] =  article.authors
 					jsonfile['published_date_time'] = str(article.publish_date)
 					jsonfile['title'] = article.title
-					# jsonfile['text'] = article.text
+					jsonfile['text'] = article.text
 					article.nlp()
 					jsonfile['keywords'] = article.keywords
 					all_articles[news_id] = jsonfile

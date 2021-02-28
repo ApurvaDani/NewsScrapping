@@ -1,0 +1,730 @@
+20-Aug-20 19:04:12 - root - INFO - Started Configuration...
+20-Aug-20 19:04:12 - root - INFO - Configuration Done
+20-Aug-20 19:04:12 - root - DEBUG - Total Symbols to be scrapped 4
+20-Aug-20 19:04:12 - root - INFO - Symbol File Read
+20-Aug-20 19:04:12 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:13 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/MMM/news?p=MMM HTTP/1.1" 200 None
+20-Aug-20 19:04:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:16 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/ABT/news?p=ABT HTTP/1.1" 200 None
+20-Aug-20 19:04:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:17 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/ABBV/news?p=ABBV HTTP/1.1" 200 None
+20-Aug-20 19:04:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:19 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/ABMD/news?p=ABMD HTTP/1.1" 200 None
+20-Aug-20 19:04:21 - root - INFO - Links to be scrapped Ready
+20-Aug-20 19:04:21 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:21 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/3m-stops-fake-n95-scheme-175900191.html HTTP/1.1" 200 None
+20-Aug-20 19:04:30 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:30 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/3m-m-modal-conversational-ambient-135200627.html HTTP/1.1" 200 None
+20-Aug-20 19:04:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:34 - requests.packages.urllib3.connectionpool - DEBUG - "GET //m/d20aeed4-cbdd-3f9f-b1a3-38a9ef1a1b61/healthcare-leads-3m-sales.html HTTP/1.1" 200 None
+20-Aug-20 19:04:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/why-abbott-abt-3-7-153003117.html HTTP/1.1" 200 None
+20-Aug-20 19:04:42 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:43 - requests.packages.urllib3.connectionpool - DEBUG - "GET //m/85b114fe-fd9b-364e-aba5-febd3185883d/2-top-stocks-for-retirees.html HTTP/1.1" 200 None
+20-Aug-20 19:04:46 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:47 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/zacks-analyst-blog-highlights-adobe-144702702.html HTTP/1.1" 200 None
+20-Aug-20 19:04:51 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:52 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/3-strong-diverse-dividend-stocks-230211395.html HTTP/1.1" 200 None
+20-Aug-20 19:04:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:54 - requests.packages.urllib3.connectionpool - DEBUG - "GET //m/d0f22b8d-f4dc-31a3-88f4-3dc45e3834b0/fda-denies-approval-for.html HTTP/1.1" 200 None
+20-Aug-20 19:04:58 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:04:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/u-activists-complain-virtual-shareholder-114135230.html HTTP/1.1" 200 None
+20-Aug-20 19:05:03 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:05:04 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/abiomed-abmd-earnings-revenues-beat-132601989.html HTTP/1.1" 200 None
+20-Aug-20 19:05:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:05:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/abiomed-abmd-tops-q1-earnings-122512633.html HTTP/1.1" 200 None
+20-Aug-20 19:05:10 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:05:10 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/abiomed-abmd-report-q1-earnings-125012669.html HTTP/1.1" 200 None
+20-Aug-20 19:05:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:16 - requests.packages.urllib3.connectionpool - DEBUG - "GET /companies/MMM.N/news HTTP/1.1" 200 71190
+20-Aug-20 19:05:16 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:16 - requests.packages.urllib3.connectionpool - DEBUG - "GET /companies/ABT.N/news HTTP/1.1" 200 72525
+20-Aug-20 19:05:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:17 - requests.packages.urllib3.connectionpool - DEBUG - "GET /companies/ABBV.N/news HTTP/1.1" 200 72779
+20-Aug-20 19:05:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:17 - requests.packages.urllib3.connectionpool - DEBUG - "GET /companies/ABMD.N/news HTTP/1.1" 200 64031
+20-Aug-20 19:05:17 - root - INFO - Links to be scrapped Ready
+20-Aug-20 19:05:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:18 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-results/3m-profit-misses-as-coronavirus-crisis-hammers-sales-idUSKCN24T1DP HTTP/1.1" 200 None
+20-Aug-20 19:05:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:18 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/products-3m/3m-loses-bid-to-dodge-thousands-of-lawsuits-over-military-earplugs-idUSL2N2EY1V6 HTTP/1.1" 200 None
+20-Aug-20 19:05:20 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:21 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-test/3m-mit-partner-to-make-rapid-covid-19-antigen-test-idUSKCN24F191 HTTP/1.1" 200 None
+20-Aug-20 19:05:22 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:22 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-files-legal-action-asserting-am/brief-3m-files-legal-action-asserting-amazon-seller-defrauded-customers-by-charging-for-fake-respirator-products-idUSFWN2DL0SX HTTP/1.1" 200 None
+20-Aug-20 19:05:23 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:24 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-cfo/3m-names-general-electric-exec-monish-patolawala-as-cfo-idUSKBN23A1X0 HTTP/1.1" 200 None
+20-Aug-20 19:05:24 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:24 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/3m-cfo/3m-names-general-electric-exec-monish-patolawala-as-cfo-idUSL4N2DG2HM HTTP/1.1" 200 None
+20-Aug-20 19:05:25 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-charges/used-car-dealer-charged-with-price-gouging-new-york-city-on-3ms-n95-masks-idUSKBN2322Q1 HTTP/1.1" 200 None
+20-Aug-20 19:05:27 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:28 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-adage-capital-partners-dissolves-s/brief-adage-capital-partners-dissolves-share-stake-in-3m-twitter-ups-stake-in-citigroup-and-goldman-sachs-idUSFWN2CX16H HTTP/1.1" 200 None
+20-Aug-20 19:05:29 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:30 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/u-s-government-awards-126-million-face-masks-contract-to-3m-idUSKBN22I2QG HTTP/1.1" 200 36251
+20-Aug-20 19:05:30 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:30 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-lawsuit/3m-wins-injunction-against-mask-seller-accused-of-price-gouging-idUSKBN22H2GK HTTP/1.1" 200 None
+20-Aug-20 19:05:31 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:32 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/3m-sues-five-vendors-for-attempting-to-sell-nonexistent-n95-respirators-idUSKBN22D5EI HTTP/1.1" 200 None
+20-Aug-20 19:05:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-results/3m-profit-jumps-as-world-masks-up-for-coronavirus-idUSKCN22A1IJ HTTP/1.1" 200 None
+20-Aug-20 19:05:35 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:36 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-says-seeing-improvements-in-asi/brief-3m-says-seeing-improvements-in-asia-pacific-most-notably-in-china-conf-call-idUSFWN2CG0X1 HTTP/1.1" 200 None
+20-Aug-20 19:05:36 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:37 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/3m-results/mask-maker-3m-suspends-2020-outlook-as-coronavirus-pandemic-wreaks-havoc-idUSL3N2CG33P HTTP/1.1" 200 None
+20-Aug-20 19:05:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/3m-sues-distributor-for-alleged-price-gouging-of-n95-respirators-in-new-york-idUSKCN21S1RA HTTP/1.1" 200 None
+20-Aug-20 19:05:39 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:39 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-and-trump-admin-announce-plan-t/brief-3m-and-trump-admin-announce-plan-to-import-166-5-mln-additional-respirators-into-u-s-over-next-3-months-idUSFWN2BU1BX HTTP/1.1" 200 None
+20-Aug-20 19:05:40 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:40 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-says-has-no-evidence-to-suggest/brief-3m-says-has-no-evidence-to-suggest-3m-products-have-been-seized-idUSFWN2BR1F7 HTTP/1.1" 200 None
+20-Aug-20 19:05:40 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:41 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-canada/canada-pm-says-will-not-retaliate-against-u-s-over-block-of-mask-exports-idUSKBN21M0MX HTTP/1.1" 200 37386
+20-Aug-20 19:05:41 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:42 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-canada/canada-blasts-u-s-block-on-3m-exports-of-masks-as-coronavirus-cases-set-to-soar-idUSKBN21L2DD HTTP/1.1" 200 None
+20-Aug-20 19:05:44 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:45 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-usa-3m/trump-says-3m-will-have-a-big-price-to-pay-over-face-masks-idUSKBN21L050 HTTP/1.1" 200 None
+20-Aug-20 19:05:45 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:46 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-abbott-conference/abbott-ceo-expects-high-demand-for-antibody-tests-even-after-approved-covid-19-vaccine-idUSKCN24H2BS HTTP/1.1" 200 None
+20-Aug-20 19:05:47 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:47 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-abbott-results/abbott-sees-no-hit-to-demand-for-covid-19-tests-from-vaccine-idUSKCN24H1SK HTTP/1.1" 200 None
+20-Aug-20 19:05:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-ceo-says-its-clear-that-the/brief-abbott-ceo-says-its-clear-that-the-need-for-testing-is-large-and-it-isnt-going-away-conf-call-idUSFWN2EN0LL HTTP/1.1" 200 None
+20-Aug-20 19:05:49 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:49 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/abbott-conference/refile-abbott-ceo-expects-high-demand-for-antibody-tests-even-after-approved-covid-19-vaccine-idUSL3N2EN3LZ HTTP/1.1" 200 None
+20-Aug-20 19:05:51 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:51 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/abbott-results/abbott-quarterly-profit-plunges-as-covid-19-batters-medical-device-unit-idUSL3N2EN344 HTTP/1.1" 200 None
+20-Aug-20 19:05:52 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:53 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-receives-fda-approval-for-h/brief-abbott-receives-fda-approval-for-heart-rhythm-devices-with-bluetooth-connectivity-continuous-remote-monitoring-idUSASA00VU3 HTTP/1.1" 200 None
+20-Aug-20 19:05:53 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:54 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-tandem-diabetes-care-advanc/brief-abbott-tandem-diabetes-care-advance-development-of-technologies-for-insulin-delivery-systems-idUSFWN2E60G3 HTTP/1.1" 200 None
+20-Aug-20 19:05:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-laboratories-files-for-pote/brief-abbott-laboratories-files-for-potential-2-part-notes-offering-idUSFWN2DZ0QQ HTTP/1.1" 200 None
+20-Aug-20 19:05:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-laboratories-files-for-pote/brief-abbott-laboratories-files-for-potential-debt-shelf-offering-idUSFWN2DZ0IL HTTP/1.1" 200 56110
+20-Aug-20 19:05:56 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-abbott-fda/u-s-fda-clears-new-version-of-abbotts-low-cost-glucose-monitor-idUSKBN23M1G4 HTTP/1.1" 200 None
+20-Aug-20 19:05:56 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:05:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbotts-freestyle-libre-2-cleared/brief-abbotts-freestyle-libre-2-cleared-in-u-s-for-adults-and-children-with-diabetes-idUSFWN2DS0KP HTTP/1.1" 200 None
+20-Aug-20 19:05:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:00 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/abbott-fda/u-s-fda-clears-version-2-0-of-abbotts-low-cost-glucose-monitor-idUSL4N2DS2SI HTTP/1.1" 200 None
+20-Aug-20 19:06:00 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:01 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-declares-quarterly-dividend/brief-abbott-declares-quarterly-dividend-idUSFWN2DP07R HTTP/1.1" 200 None
+20-Aug-20 19:06:02 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:02 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbotts-interim-clinical-study-dat/brief-abbotts-interim-clinical-study-data-on-id-now-covid-19-rapid-test-shows-strong-agreement-to-lab-based-molecular-pcr-tests-idUSFWN2D30OV HTTP/1.1" 200 None
+20-Aug-20 19:06:03 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:04 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-abbott/abbott-says-new-data-on-rapid-coronavirus-test-used-in-white-house-shows-high-accuracy-idUSKBN22X2S8 HTTP/1.1" 200 None
+20-Aug-20 19:06:06 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:07 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-announces-contract-to-suppl/brief-abbott-announces-contract-to-supply-millions-of-igg-lab-based-antibody-tests-to-uk-idUSFWN2D30AB HTTP/1.1" 200 None
+20-Aug-20 19:06:07 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbott-announces-health-canada-aut/brief-abbott-announces-health-canada-authorization-under-covid-19-interim-order-and-immediate-availability-of-its-covid-19-antibody-test-in-canada-idUSFWN2D308X HTTP/1.1" 200 None
+20-Aug-20 19:06:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-testing-abbott/u-s-health-secretary-expresses-confidence-in-abbotts-fast-covid-19-test-idUSKBN22R2B7 HTTP/1.1" 200 None
+20-Aug-20 19:06:10 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-testing-abbott/u-s-regulator-is-reviewing-abbotts-fast-covid-test-after-studies-raise-accuracy-concerns-idUSKBN22R07G HTTP/1.1" 200 None
+20-Aug-20 19:06:12 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:12 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-fda-says-abbotts-id-now-point-of-c/brief-fda-says-abbotts-id-now-point-of-care-test-to-diagnose-covid-19-may-return-false-negative-results-idUSFWN2CW179 HTTP/1.1" 200 None
+20-Aug-20 19:06:14 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:14 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-abbvie-lawsuit/abbvie-agrees-to-pay-24-million-to-resolve-humira-california-lawsuit-idUSKCN2522X7 HTTP/1.1" 200 None
+20-Aug-20 19:06:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:16 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/abbvie-lawsuit/abbvie-agrees-to-pay-24-mln-to-resolve-humira-california-lawsuit-idUSL4N2F84WO HTTP/1.1" 200 None
+20-Aug-20 19:06:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:17 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-abbvie-results/abbvies-humira-powers-profit-beat-as-covid-19-weighs-on-botox-sales-idUSKCN24W1TI HTTP/1.1" 200 None
+20-Aug-20 19:06:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:19 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-says-by-june-end-total-busi/brief-abbvie-says-by-june-end-total-business-recovered-to-more-than-90-of-pre-covid-levels-conf-call-idUSFWN2F219L HTTP/1.1" 200 None
+20-Aug-20 19:06:20 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:20 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/abbvie-results/abbvie-reports-loss-as-covid-19-hits-botox-sales-idUSL3N2F23VN HTTP/1.1" 200 None
+20-Aug-20 19:06:22 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:22 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-molecular-prtnrs-abbvie-eye-drug/molecular-partnerss-abbvie-partnered-eye-drug-gets-fda-safety-snub-idUSKBN23X0WG HTTP/1.1" 200 None
+20-Aug-20 19:06:23 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:24 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-allergan-an-abbvie-company-and-mol/brief-allergan-an-abbvie-company-and-molecular-partners-receive-crl-from-fda-on-biologics-license-application-for-abicipar-pegol-idUSASA00V0Y HTTP/1.1" 200 None
+20-Aug-20 19:06:24 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-sosei-group-abbvie-partnership/sosei-abbvie-sign-drug-discovery-deal-worth-up-to-1-bln-idUSKBN23W09U HTTP/1.1" 200 None
+20-Aug-20 19:06:26 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:27 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/sosei-group-abbvie-partnership/japans-sosei-group-signs-377-mln-drug-discovery-deal-with-abbvie-idUSL4N2E20G8 HTTP/1.1" 200 None
+20-Aug-20 19:06:28 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:28 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-sosei-group-corp-sosei-heptares-an/brief-sosei-group-corp-sosei-heptares-and-abbvie-announce-new-discovery-collaboration-targeting-inflammatory-diseases-idUSFWN2E10W7 HTTP/1.1" 200 None
+20-Aug-20 19:06:29 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:29 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-imbruvica-seeks-to-expand-us-label/brief-imbruvica-seeks-to-expand-u-s-label-with-long-term-data-in-waldenstrms-macroglobulinemia-idUSFWN2E006W HTTP/1.1" 200 None
+20-Aug-20 19:06:30 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:30 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-fda-accepts-supplemental-biologics/brief-fda-accepts-supplemental-biologics-license-application-for-botox-idUSASA00UHO HTTP/1.1" 200 None
+20-Aug-20 19:06:30 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:31 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-assembly-biosciences-termination-o/brief-assembly-biosciences-termination-of-collaboration-agreement-with-abbvie-will-be-effective-120-days-following-notice-of-termination-on-october-10-idUSFWN2DV0SW HTTP/1.1" 200 None
+20-Aug-20 19:06:31 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:32 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-assembly-biosciences-regains-world/brief-assembly-biosciences-regains-worldwide-rights-to-microbiome-gastrointestinal-development-programs-idUSFWN2DV0LN HTTP/1.1" 200 None
+20-Aug-20 19:06:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-says-rinvoq-monotherapy-sho/brief-abbvie-says-rinvoq-monotherapy-shows-improvement-in-skin-clearance-and-itch-in-first-phase-3-study-idUSFWN2DV0JV HTTP/1.1" 200 None
+20-Aug-20 19:06:34 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:35 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-alpine-immune-sciences-and-abbvie/brief-alpine-immune-sciences-and-abbvie-announce-option-and-license-agreement-for-development-and-commercialization-of-alpn-101-idUSFWN2DV0CQ HTTP/1.1" 200 None
+20-Aug-20 19:06:36 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:36 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-sets-quarterly-cash-dividen/brief-abbvie-sets-quarterly-cash-dividend-of-1-18per-share-idUSFWN2DU0SI HTTP/1.1" 200 56055
+20-Aug-20 19:06:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:37 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-says-fda-approves-juvderm-v/brief-abbvie-says-fda-approves-juvderm-voluma-xc-for-enhancement-of-the-chin-region-idUSASA00TRW HTTP/1.1" 200 None
+20-Aug-20 19:06:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-says-venclexta-venclyxto-pl/brief-abbvie-says-venclexta-venclyxto-plus-azacitidine-demonstrates-statistically-significant-overall-survival-benefit-in-phase-3-study-idUSFWN2DQ001 HTTP/1.1" 200 None
+20-Aug-20 19:06:38 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:06:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-abbvie-recommends-shareholders-rej/brief-abbvie-recommends-shareholders-reject-trc-capitals-mini-tender-offer-idUSFWN2DP0MA HTTP/1.1" 200 None
+20-Aug-20 19:06:39 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): money.cnn.com
+20-Aug-20 19:06:41 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/news/news.html?symb=MMM HTTP/1.1" 200 26276
+20-Aug-20 19:06:41 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): money.cnn.com
+20-Aug-20 19:06:43 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/news/news.html?symb=ABT HTTP/1.1" 200 24620
+20-Aug-20 19:06:44 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): money.cnn.com
+20-Aug-20 19:06:46 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/news/news.html?symb=ABBV HTTP/1.1" 200 26249
+20-Aug-20 19:06:46 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): money.cnn.com
+20-Aug-20 19:06:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/news/news.html?symb=ABMD HTTP/1.1" 200 23547
+20-Aug-20 19:06:48 - root - INFO - Links to be scrapped Ready CNN
+20-Aug-20 19:06:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:06:49 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/20/investing-in-stocks-make-you-a-millionaire-retiree/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:06:52 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:52 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3598501-seeking-alpha-catalyst-watch?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 30179
+20-Aug-20 19:06:53 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:54 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369700-retirees-dividend-portfolio-janes-july-update-resilient-dividends?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 138854
+20-Aug-20 19:06:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:55 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:55 - root - INFO - --------Source - cnn76-------
+20-Aug-20 19:06:55 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:56 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - root - INFO - --------Source - cnn77-------
+20-Aug-20 19:06:56 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:56 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - root - INFO - --------Source - cnn78-------
+20-Aug-20 19:06:56 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:56 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - root - INFO - --------Source - cnn79-------
+20-Aug-20 19:06:56 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:56 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:57 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:57 - root - INFO - --------Source - cnn80-------
+20-Aug-20 19:06:57 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369409-far-not-year-for-dogs-of-dow?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 125774
+20-Aug-20 19:06:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:06:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:06:57 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:57 - root - INFO - --------Source - cnn82-------
+20-Aug-20 19:06:57 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:06:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:06:58 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/17/this-stock-doesnt-need-more-stimulus-to-win/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:01 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:01 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:01 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:01 - root - INFO - --------Source - cnn84-------
+20-Aug-20 19:07:01 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:01 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:01 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:01 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:01 - root - INFO - --------Source - cnn85-------
+20-Aug-20 19:07:01 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:01 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:02 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - root - INFO - --------Source - cnn86-------
+20-Aug-20 19:07:02 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:02 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - root - INFO - --------Source - cnn87-------
+20-Aug-20 19:07:02 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:02 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - root - INFO - --------Source - cnn88-------
+20-Aug-20 19:07:02 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:02 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:03 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/16/healthcare-leads-3m-sales-higher-in-july/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:04 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:04 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:04 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:04 - root - INFO - --------Source - cnn90-------
+20-Aug-20 19:07:04 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:04 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:05 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369001-dogs-of-dow-in-mid-august-4-primed-to-pick?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 136008
+20-Aug-20 19:07:07 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:07 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:07 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:07 - root - INFO - --------Source - cnn92-------
+20-Aug-20 19:07:07 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:07 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:08 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:08 - root - INFO - --------Source - cnn93-------
+20-Aug-20 19:07:08 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:08 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:08 - root - INFO - --------Source - cnn94-------
+20-Aug-20 19:07:08 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/15/forget-pre-split-tesla-these-3-stocks-are-better-b/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:11 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:11 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:11 - root - INFO - --------Source - cnn96-------
+20-Aug-20 19:07:11 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:11 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:12 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/15/3-dividend-investing-tips-that-could-earn-you-thou/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:13 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:14 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:14 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:14 - root - INFO - --------Source - cnn98-------
+20-Aug-20 19:07:14 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:14 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:14 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368089-motorhome-retirement-july-update-yellowstone?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 136332
+20-Aug-20 19:07:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:17 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:17 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:17 - root - INFO - --------Source - cnn100-------
+20-Aug-20 19:07:17 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:17 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:18 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - root - INFO - --------Source - cnn101-------
+20-Aug-20 19:07:18 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:18 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - root - INFO - --------Source - cnn102-------
+20-Aug-20 19:07:18 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:18 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - root - INFO - --------Source - cnn103-------
+20-Aug-20 19:07:18 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:18 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.cnn.com
+20-Aug-20 19:07:19 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/27/investing/premarket-stocks-trading/index.html HTTP/1.1" 302 0
+20-Aug-20 19:07:19 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): edition.cnn.com
+20-Aug-20 19:07:20 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/27/investing/premarket-stocks-trading/index.html HTTP/1.1" 200 184933
+20-Aug-20 19:07:21 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:22 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:22 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:22 - root - INFO - --------Source - cnn105-------
+20-Aug-20 19:07:22 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:22 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.cnn.com
+20-Aug-20 19:07:22 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/26/investing/stocks-week-ahead/index.html HTTP/1.1" 302 0
+20-Aug-20 19:07:22 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): edition.cnn.com
+20-Aug-20 19:07:23 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/26/investing/stocks-week-ahead/index.html HTTP/1.1" 200 182986
+20-Aug-20 19:07:24 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:24 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 None
+20-Aug-20 19:07:25 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:25 - root - INFO - --------Source - cnn107-------
+20-Aug-20 19:07:25 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:25 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369790-quidel-impressive-growth-story-for-long-term?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:25 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369790-quidel-impressive-growth-story-for-long-term?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369790-quidel-impressive-growth-story-for-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:25 - root - INFO - --------Source - cnn108-------
+20-Aug-20 19:07:25 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369790-quidel-impressive-growth-story-for-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:25 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/13/2-top-stocks-for-retirees/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:27 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:28 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/18/fda-gives-eua-to-a-unique-covid-19-saliva-test/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:32 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4363042-danaher-juggernaut-rolls-on-crushing-valuation-concerns-under-wheels-of-growth?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:32 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4363042-danaher-juggernaut-rolls-on-crushing-valuation-concerns-under-wheels-of-growth?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4363042-danaher-juggernaut-rolls-on-crushing-valuation-concerns-under-wheels-of-growth?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:32 - root - INFO - --------Source - cnn111-------
+20-Aug-20 19:07:32 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4363042-danaher-juggernaut-rolls-on-crushing-valuation-concerns-under-wheels-of-growth?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3606498-longer-virus-testing-timeline-from-wells-fargo-marks-opportunity-for-test-players?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:33 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3606498-longer-virus-testing-timeline-from-wells-fargo-marks-opportunity-for-test-players?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3606498-longer-virus-testing-timeline-from-wells-fargo-marks-opportunity-for-test-players?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:33 - root - INFO - --------Source - cnn112-------
+20-Aug-20 19:07:33 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3606498-longer-virus-testing-timeline-from-wells-fargo-marks-opportunity-for-test-players?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362928-craving-healthcare-beginners-guide-and-7-picks?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:33 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362928-craving-healthcare-beginners-guide-and-7-picks?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362928-craving-healthcare-beginners-guide-and-7-picks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:33 - root - INFO - --------Source - cnn113-------
+20-Aug-20 19:07:33 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362928-craving-healthcare-beginners-guide-and-7-picks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:34 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:34 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:34 - root - INFO - --------Source - cnn114-------
+20-Aug-20 19:07:34 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:34 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:34 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361273-biotech-bonanza-second-half-outlook?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 127944
+20-Aug-20 19:07:35 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:36 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/16/3-dividend-stocks-yielding-more-than-4-that-are-sa/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:38 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:38 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:38 - root - INFO - --------Source - cnn117-------
+20-Aug-20 19:07:38 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:38 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3606016-duquesne-adds-jpmorgan-exits-abbott-cuts-alphabet?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 32382
+20-Aug-20 19:07:39 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:39 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360647-covidminus-19-takes-toll-roche-still-attractive-for-longer-term-investors?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:39 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360647-covidminus-19-takes-toll-roche-still-attractive-for-longer-term-investors?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360647-covidminus-19-takes-toll-roche-still-attractive-for-longer-term-investors?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:39 - root - INFO - --------Source - cnn119-------
+20-Aug-20 19:07:39 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360647-covidminus-19-takes-toll-roche-still-attractive-for-longer-term-investors?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:39 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:40 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/20/investing-in-stocks-make-you-a-millionaire-retiree/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:43 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.gurufocus.com
+20-Aug-20 19:07:44 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/1208893/david-abrams-sells-2-holdings-drills-into-kinder-morgan-in-2nd-quarter/?r=21637c73084e87d770a98f867757282f HTTP/1.1" 200 None
+20-Aug-20 19:07:47 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:47 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369875-15-wonderful-blue-chip-buys-i-just-made-for-retirement-portfolio?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:47 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369875-15-wonderful-blue-chip-buys-i-just-made-for-retirement-portfolio?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369875-15-wonderful-blue-chip-buys-i-just-made-for-retirement-portfolio?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:47 - root - INFO - --------Source - cnn122-------
+20-Aug-20 19:07:47 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369875-15-wonderful-blue-chip-buys-i-just-made-for-retirement-portfolio?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:47 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368306-genomic-medicine-summer-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:48 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368306-genomic-medicine-summer-2020-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368306-genomic-medicine-summer-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:48 - root - INFO - --------Source - cnn123-------
+20-Aug-20 19:07:48 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368306-genomic-medicine-summer-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:07:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/19/fda-denies-approval-for-gilead-sciences-potential/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:07:50 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:50 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:50 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:50 - root - INFO - --------Source - cnn125-------
+20-Aug-20 19:07:50 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:50 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:50 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369700-retirees-dividend-portfolio-janes-july-update-resilient-dividends?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 138854
+20-Aug-20 19:07:51 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:52 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4363134-abbvie-inc-abbv-ceo-rick-gonzalez-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:52 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4363134-abbvie-inc-abbv-ceo-rick-gonzalez-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4363134-abbvie-inc-abbv-ceo-rick-gonzalez-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:52 - root - INFO - --------Source - cnn127-------
+20-Aug-20 19:07:52 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4363134-abbvie-inc-abbv-ceo-rick-gonzalez-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:52 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:52 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369686-tracking-john-paulsons-paulson-company-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 133588
+20-Aug-20 19:07:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:54 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3598351-abbvie-q2-non-gaap-earnings-up-16-allergan?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:54 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3598351-abbvie-q2-non-gaap-earnings-up-16-allergan?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3598351-abbvie-q2-non-gaap-earnings-up-16-allergan?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:54 - root - INFO - --------Source - cnn129-------
+20-Aug-20 19:07:54 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3598351-abbvie-q2-non-gaap-earnings-up-16-allergan?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:55 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:55 - root - INFO - --------Source - cnn130-------
+20-Aug-20 19:07:55 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3598337-abbvie-eps-beats-0_14-beats-on-revenue?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:55 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3598337-abbvie-eps-beats-0_14-beats-on-revenue?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3598337-abbvie-eps-beats-0_14-beats-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:55 - root - INFO - --------Source - cnn131-------
+20-Aug-20 19:07:55 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3598337-abbvie-eps-beats-0_14-beats-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369557-dividend-aristocrats-show-six-best-mid-august-selections?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 134360
+20-Aug-20 19:07:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3597799-notable-earnings-fridays-open?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:57 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3597799-notable-earnings-fridays-open?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3597799-notable-earnings-fridays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:57 - root - INFO - --------Source - cnn133-------
+20-Aug-20 19:07:57 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3597799-notable-earnings-fridays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3606792-teva-allergan-to-face-ny-charges-over-role-in-opioid-crisis?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:57 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3606792-teva-allergan-to-face-ny-charges-over-role-in-opioid-crisis?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3606792-teva-allergan-to-face-ny-charges-over-role-in-opioid-crisis?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:57 - root - INFO - --------Source - cnn134-------
+20-Aug-20 19:07:57 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3606792-teva-allergan-to-face-ny-charges-over-role-in-opioid-crisis?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:57 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3597796-abbvie-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:58 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3597796-abbvie-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3597796-abbvie-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - root - INFO - --------Source - cnn135-------
+20-Aug-20 19:07:58 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3597796-abbvie-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369444-abbvie-solid-5-yield-potential-for-growth?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:58 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369444-abbvie-solid-5-yield-potential-for-growth?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369444-abbvie-solid-5-yield-potential-for-growth?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - root - INFO - --------Source - cnn136-------
+20-Aug-20 19:07:58 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369444-abbvie-solid-5-yield-potential-for-growth?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362149-3-low-beta-blue-chips-high-dividend-yields?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:58 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362149-3-low-beta-blue-chips-high-dividend-yields?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362149-3-low-beta-blue-chips-high-dividend-yields?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - root - INFO - --------Source - cnn137-------
+20-Aug-20 19:07:58 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362149-3-low-beta-blue-chips-high-dividend-yields?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:58 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369357-abbvie-trifecta-of-yield-growth-and-total-return-potential?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:59 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369357-abbvie-trifecta-of-yield-growth-and-total-return-potential?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369357-abbvie-trifecta-of-yield-growth-and-total-return-potential?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - root - INFO - --------Source - cnn138-------
+20-Aug-20 19:07:59 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369357-abbvie-trifecta-of-yield-growth-and-total-return-potential?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3596710-abbvies-atogepant-successful-in-late-stage-migraine-study?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:59 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3596710-abbvies-atogepant-successful-in-late-stage-migraine-study?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3596710-abbvies-atogepant-successful-in-late-stage-migraine-study?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - root - INFO - --------Source - cnn139-------
+20-Aug-20 19:07:59 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3596710-abbvies-atogepant-successful-in-late-stage-migraine-study?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369185-3-reasons-abbvie-is-ready-to-bounce?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:07:59 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369185-3-reasons-abbvie-is-ready-to-bounce?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369185-3-reasons-abbvie-is-ready-to-bounce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - root - INFO - --------Source - cnn140-------
+20-Aug-20 19:07:59 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369185-3-reasons-abbvie-is-ready-to-bounce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:07:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:00 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595872-abbvies-upadacitinib-successful-in-third-late-stage-dermatitis-study?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:00 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595872-abbvies-upadacitinib-successful-in-third-late-stage-dermatitis-study?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595872-abbvies-upadacitinib-successful-in-third-late-stage-dermatitis-study?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:00 - root - INFO - --------Source - cnn141-------
+20-Aug-20 19:08:00 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595872-abbvies-upadacitinib-successful-in-third-late-stage-dermatitis-study?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:00 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:08:00 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/16/pfizers-unheralded-franchise-thats-worth-billions/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:08:03 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:03 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:03 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:03 - root - INFO - --------Source - cnn143-------
+20-Aug-20 19:08:03 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:03 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:08:03 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/16/3-dividend-stocks-yielding-more-than-4-that-are-sa/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:08:05 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:05 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:05 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:05 - root - INFO - --------Source - cnn145-------
+20-Aug-20 19:08:05 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360958-vanguard-health-care-etf-outlook-remains-favorable-despite-higher-valuation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:05 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:05 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368089-motorhome-retirement-july-update-yellowstone?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 136332
+20-Aug-20 19:08:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:08 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:08 - root - INFO - --------Source - cnn147-------
+20-Aug-20 19:08:08 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:08 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368707-tracking-david-abrams-abrams-capital-management-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:08 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368707-tracking-david-abrams-abrams-capital-management-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368707-tracking-david-abrams-abrams-capital-management-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:08 - root - INFO - --------Source - cnn148-------
+20-Aug-20 19:08:08 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368707-tracking-david-abrams-abrams-capital-management-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360703-rising-risk-what-you-can-buy?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:09 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360703-rising-risk-what-you-can-buy?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360703-rising-risk-what-you-can-buy?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:09 - root - INFO - --------Source - cnn149-------
+20-Aug-20 19:08:09 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360703-rising-risk-what-you-can-buy?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:09 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368593-investing-for-long-run-navigating-bifurcated-market?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:09 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368593-investing-for-long-run-navigating-bifurcated-market?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368593-investing-for-long-run-navigating-bifurcated-market?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:09 - root - INFO - --------Source - cnn150-------
+20-Aug-20 19:08:09 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368593-investing-for-long-run-navigating-bifurcated-market?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:09 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:10 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3594817-european-advisory-groups-backs-expanded-use-of-imbruvica?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:10 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3594817-european-advisory-groups-backs-expanded-use-of-imbruvica?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3594817-european-advisory-groups-backs-expanded-use-of-imbruvica?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:10 - root - INFO - --------Source - cnn151-------
+20-Aug-20 19:08:10 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3594817-european-advisory-groups-backs-expanded-use-of-imbruvica?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:10 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:08:10 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368652-reader-favorites-and-rogues-july-8-to-august-7-peg-30-ripe-dividends-for-picking?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:08:10 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368652-reader-favorites-and-rogues-july-8-to-august-7-peg-30-ripe-dividends-for-picking?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368652-reader-favorites-and-rogues-july-8-to-august-7-peg-30-ripe-dividends-for-picking?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:10 - root - INFO - --------Source - cnn152-------
+20-Aug-20 19:08:10 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368652-reader-favorites-and-rogues-july-8-to-august-7-peg-30-ripe-dividends-for-picking?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:08:10 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:08:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/18/to-identify-resilience-check-company-vital-sign/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:08:14 - root - INFO - Process Completed!
+20-Aug-20 19:08:40 - werkzeug - INFO -  * Restarting with stat
+20-Aug-20 19:08:48 - werkzeug - WARNING -  * Debugger is active!
+20-Aug-20 19:08:48 - werkzeug - INFO -  * Debugger PIN: 443-063-565
+20-Aug-20 19:08:50 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20-Aug-20 19:09:24 - root - INFO - Server Hit
+20-Aug-20 19:09:24 - root - INFO - Started Configuration...
+20-Aug-20 19:09:24 - root - INFO - Configuration Done
+20-Aug-20 19:09:24 - root - DEBUG - Total Symbols to be scrapped 1
+20-Aug-20 19:09:24 - root - INFO - Symbol File Read
+20-Aug-20 19:09:24 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:09:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/MMM/news?p=MMM HTTP/1.1" 200 None
+20-Aug-20 19:09:26 - root - INFO - Links to be scrapped Ready
+20-Aug-20 19:09:26 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:09:27 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/3m-stops-fake-n95-scheme-175900191.html HTTP/1.1" 200 None
+20-Aug-20 19:09:38 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:09:39 - requests.packages.urllib3.connectionpool - DEBUG - "GET //news/3m-m-modal-conversational-ambient-135200627.html HTTP/1.1" 200 None
+20-Aug-20 19:09:41 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): in.finance.yahoo.com
+20-Aug-20 19:09:42 - requests.packages.urllib3.connectionpool - DEBUG - "GET //m/d20aeed4-cbdd-3f9f-b1a3-38a9ef1a1b61/healthcare-leads-3m-sales.html HTTP/1.1" 200 None
+20-Aug-20 19:09:44 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:46 - requests.packages.urllib3.connectionpool - DEBUG - "GET /companies/MMM.N/news HTTP/1.1" 200 71190
+20-Aug-20 19:09:46 - root - INFO - Links to be scrapped Ready
+20-Aug-20 19:09:46 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:46 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-results/3m-profit-misses-as-coronavirus-crisis-hammers-sales-idUSKCN24T1DP HTTP/1.1" 200 None
+20-Aug-20 19:09:47 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:47 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/products-3m/3m-loses-bid-to-dodge-thousands-of-lawsuits-over-military-earplugs-idUSL2N2EY1V6 HTTP/1.1" 200 None
+20-Aug-20 19:09:47 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:47 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-test/3m-mit-partner-to-make-rapid-covid-19-antigen-test-idUSKCN24F191 HTTP/1.1" 200 None
+20-Aug-20 19:09:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-files-legal-action-asserting-am/brief-3m-files-legal-action-asserting-amazon-seller-defrauded-customers-by-charging-for-fake-respirator-products-idUSFWN2DL0SX HTTP/1.1" 200 None
+20-Aug-20 19:09:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:48 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-cfo/3m-names-general-electric-exec-monish-patolawala-as-cfo-idUSKBN23A1X0 HTTP/1.1" 200 None
+20-Aug-20 19:09:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:49 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/3m-cfo/3m-names-general-electric-exec-monish-patolawala-as-cfo-idUSL4N2DG2HM HTTP/1.1" 200 None
+20-Aug-20 19:09:49 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:49 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-charges/used-car-dealer-charged-with-price-gouging-new-york-city-on-3ms-n95-masks-idUSKBN2322Q1 HTTP/1.1" 200 None
+20-Aug-20 19:09:49 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:49 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-adage-capital-partners-dissolves-s/brief-adage-capital-partners-dissolves-share-stake-in-3m-twitter-ups-stake-in-citigroup-and-goldman-sachs-idUSFWN2CX16H HTTP/1.1" 200 None
+20-Aug-20 19:09:50 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:50 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/u-s-government-awards-126-million-face-masks-contract-to-3m-idUSKBN22I2QG HTTP/1.1" 200 36251
+20-Aug-20 19:09:50 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:50 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m-lawsuit/3m-wins-injunction-against-mask-seller-accused-of-price-gouging-idUSKBN22H2GK HTTP/1.1" 200 None
+20-Aug-20 19:09:52 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:53 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/3m-sues-five-vendors-for-attempting-to-sell-nonexistent-n95-respirators-idUSKBN22D5EI HTTP/1.1" 200 None
+20-Aug-20 19:09:53 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:53 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-3m-results/3m-profit-jumps-as-world-masks-up-for-coronavirus-idUSKCN22A1IJ HTTP/1.1" 200 None
+20-Aug-20 19:09:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:54 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-says-seeing-improvements-in-asi/brief-3m-says-seeing-improvements-in-asia-pacific-most-notably-in-china-conf-call-idUSFWN2CG0X1 HTTP/1.1" 200 None
+20-Aug-20 19:09:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:55 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/3m-results/mask-maker-3m-suspends-2020-outlook-as-coronavirus-pandemic-wreaks-havoc-idUSL3N2CG33P HTTP/1.1" 200 None
+20-Aug-20 19:09:55 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:57 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-3m/3m-sues-distributor-for-alleged-price-gouging-of-n95-respirators-in-new-york-idUSKCN21S1RA HTTP/1.1" 200 None
+20-Aug-20 19:09:58 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:58 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-and-trump-admin-announce-plan-t/brief-3m-and-trump-admin-announce-plan-to-import-166-5-mln-additional-respirators-into-u-s-over-next-3-months-idUSFWN2BU1BX HTTP/1.1" 200 None
+20-Aug-20 19:09:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/brief-3m-says-has-no-evidence-to-suggest/brief-3m-says-has-no-evidence-to-suggest-3m-products-have-been-seized-idUSFWN2BR1F7 HTTP/1.1" 200 None
+20-Aug-20 19:09:59 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:09:59 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-canada/canada-pm-says-will-not-retaliate-against-u-s-over-block-of-mask-exports-idUSKBN21M0MX HTTP/1.1" 200 37386
+20-Aug-20 19:10:00 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:10:00 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-canada/canada-blasts-u-s-block-on-3m-exports-of-masks-as-coronavirus-cases-set-to-soar-idUSKBN21L2DD HTTP/1.1" 200 None
+20-Aug-20 19:10:00 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.reuters.com
+20-Aug-20 19:10:00 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/us-health-coronavirus-usa-3m/trump-says-3m-will-have-a-big-price-to-pay-over-face-masks-idUSKBN21L050 HTTP/1.1" 200 None
+20-Aug-20 19:10:01 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): money.cnn.com
+20-Aug-20 19:10:03 - requests.packages.urllib3.connectionpool - DEBUG - "GET /quote/news/news.html?symb=MMM HTTP/1.1" 200 26273
+20-Aug-20 19:10:03 - root - INFO - Links to be scrapped Ready CNN
+20-Aug-20 19:10:03 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:10:04 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/20/investing-in-stocks-make-you-a-millionaire-retiree/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:10:06 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:06 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3598501-seeking-alpha-catalyst-watch?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 30179
+20-Aug-20 19:10:06 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:06 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369700-retirees-dividend-portfolio-janes-july-update-resilient-dividends?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 138854
+20-Aug-20 19:10:09 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:09 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:09 - root - INFO - --------Source - cnn27-------
+20-Aug-20 19:10:09 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362864-honeywell-best-headwinds-are-fierce?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:09 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:09 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:09 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:09 - root - INFO - --------Source - cnn28-------
+20-Aug-20 19:10:09 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369588-you-like-attractively-valued-blue-chips-love-7-dividend-growth-stocks?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:09 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:10 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:10 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:10 - root - INFO - --------Source - cnn29-------
+20-Aug-20 19:10:10 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4362251-3m-past-worst-management-work-to-long-term?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:10 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:11 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:11 - root - INFO - --------Source - cnn30-------
+20-Aug-20 19:10:11 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369638-august-2020-stock-purchases-making-money-work?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:11 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:11 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:11 - root - INFO - --------Source - cnn31-------
+20-Aug-20 19:10:11 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361696-wall-street-breakfast-big-tech-congress?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:11 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:11 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369409-far-not-year-for-dogs-of-dow?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 125774
+20-Aug-20 19:10:12 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:12 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:12 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:12 - root - INFO - --------Source - cnn33-------
+20-Aug-20 19:10:12 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361384-3m-mmm-ceo-michael-roman-on-q2-2020-results-earnings-call-transcript?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:12 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:10:13 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/17/this-stock-doesnt-need-more-stimulus-to-win/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:10:14 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:14 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:14 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:14 - root - INFO - --------Source - cnn35-------
+20-Aug-20 19:10:14 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595843-3m-illustrates-broad-q2-weakness-mcdonald-s-comps-show-signs-of-life?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:14 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:14 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:14 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:14 - root - INFO - --------Source - cnn36-------
+20-Aug-20 19:10:14 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369110-dgi-for-diy-q2-2020-dividend-portfolio-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:14 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:15 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - root - INFO - --------Source - cnn37-------
+20-Aug-20 19:10:15 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595769-3m-slips-3-after-missing-estimates-cannot-forecast-recovery?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:15 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - root - INFO - --------Source - cnn38-------
+20-Aug-20 19:10:15 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4369085-buy-european-conglomerates-neutral-beneficiary-of-china-usa-trade-war?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:15 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - root - INFO - --------Source - cnn39-------
+20-Aug-20 19:10:15 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361245-wall-street-breakfast-negotiations-begin-over-next-coronavirus-relief-package?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:15 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:10:16 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/16/healthcare-leads-3m-sales-higher-in-july/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:10:19 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:19 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:19 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:19 - root - INFO - --------Source - cnn41-------
+20-Aug-20 19:10:19 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361248-3m-company-2020-q2-results-earnings-call-presentation?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:19 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:19 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4369001-dogs-of-dow-in-mid-august-4-primed-to-pick?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 136008
+20-Aug-20 19:10:20 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:21 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - root - INFO - --------Source - cnn43-------
+20-Aug-20 19:10:21 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595706-3m-eps-misses-0_01-misses-on-revenue?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:21 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - root - INFO - --------Source - cnn44-------
+20-Aug-20 19:10:21 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368991-dividend-champion-and-contender-highlights-week-of-august-16?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:21 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - root - INFO - --------Source - cnn45-------
+20-Aug-20 19:10:21 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595671-court-showdown-georgia-governor-vs-atlanta-mayor-over-mask-mandates?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:21 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:10:22 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/15/forget-pre-split-tesla-these-3-stocks-are-better-b/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:10:24 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:25 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:25 - root - INFO - --------Source - cnn47-------
+20-Aug-20 19:10:25 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4361121-retirees-dividend-portfolio-janes-june-update-record-dividends-during-covidminus-19?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:25 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.fool.com
+20-Aug-20 19:10:25 - requests.packages.urllib3.connectionpool - DEBUG - "GET /investing/2020/08/15/3-dividend-investing-tips-that-could-earn-you-thou/?source=eptcnnlnk0000002&utm_source=cnnmoney&utm_medium=feed&utm_campaign=article HTTP/1.1" 200 None
+20-Aug-20 19:10:28 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:29 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:29 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:29 - root - INFO - --------Source - cnn49-------
+20-Aug-20 19:10:29 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595331-3m-q2-2020-earnings-preview?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:29 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:29 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368089-motorhome-retirement-july-update-yellowstone?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 200 136332
+20-Aug-20 19:10:31 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:31 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:31 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:31 - root - INFO - --------Source - cnn51-------
+20-Aug-20 19:10:31 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3595313-notable-earnings-tuesdays-open?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:31 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:32 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:32 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:32 - root - INFO - --------Source - cnn52-------
+20-Aug-20 19:10:32 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3605515-3m-declares-1_47-dividend?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:32 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:32 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:32 - root - INFO - --------Source - cnn53-------
+20-Aug-20 19:10:32 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4360931-14-best-high-yield-dividend-aristocrats-retirees-can-safely-buy-right-now?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:33 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:33 - root - INFO - --------Source - cnn54-------
+20-Aug-20 19:10:33 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/news/3605069-3m-sales-enjoy-july-boost-led-healthcare-segment?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.cnn.com
+20-Aug-20 19:10:33 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/27/investing/premarket-stocks-trading/index.html HTTP/1.1" 302 0
+20-Aug-20 19:10:33 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): edition.cnn.com
+20-Aug-20 19:10:35 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/27/investing/premarket-stocks-trading/index.html HTTP/1.1" 200 184934
+20-Aug-20 19:10:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:37 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:37 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:37 - root - INFO - --------Source - cnn56-------
+20-Aug-20 19:10:37 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4368201-tracking-tweedy-browne-portfolio-q2-2020-update?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): www.cnn.com
+20-Aug-20 19:10:37 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/26/investing/stocks-week-ahead/index.html HTTP/1.1" 302 0
+20-Aug-20 19:10:37 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): edition.cnn.com
+20-Aug-20 19:10:38 - requests.packages.urllib3.connectionpool - DEBUG - "GET /2020/07/26/investing/stocks-week-ahead/index.html HTTP/1.1" 200 182986
+20-Aug-20 19:10:41 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): seekingalpha.com
+20-Aug-20 19:10:41 - requests.packages.urllib3.connectionpool - DEBUG - "GET /article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral HTTP/1.1" 403 124
+20-Aug-20 19:10:41 - newspaper.article - DEBUG - Download failed on URL https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral because of 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:41 - root - INFO - --------Source - cnn58-------
+20-Aug-20 19:10:41 - root - WARNING - Link could not be scrapped - https://seekingalpha.com/article/4367890-first-half-2020-dividend-checkup-dividend-growth-cuts-and-postponements?utm_source=money.cnn.com&utm_medium=referral
+20-Aug-20 19:10:41 - root - INFO - Process Completed!
+20-Aug-20 19:10:41 - werkzeug - INFO - 127.0.0.1 - - [20/Aug/2020 19:10:41] "[37mGET /getnews HTTP/1.1[0m" 200 -
+25-Aug-20 12:25:07 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:25:07] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:26:47 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:26:47] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:28:59 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:28:59] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:29:58 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:29:58] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:30:30 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:30:30] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:30:39 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:30:39] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:42:13 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:42:13] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:42:48 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:42:48] "[33mGET / HTTP/1.1[0m" 404 -
+25-Aug-20 12:43:02 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:43:02] "[33mGET / HTTP/1.1[0m" 404 -
+25-Aug-20 12:43:05 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:43:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+25-Aug-20 12:54:02 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:54:02] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:56:05 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:56:05] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:56:15 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:56:15] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:56:32 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:56:32] "[33mGET / HTTP/1.1[0m" 404 -
+25-Aug-20 12:57:43 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:57:43] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:57:58 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:57:58] "[33mPOST /lite_ocr_service HTTP/1.1[0m" 404 -
+25-Aug-20 12:58:20 - werkzeug - INFO - 127.0.0.1 - - [25/Aug/2020 12:58:20] "[33mGET /lite_ocr_service HTTP/1.1[0m" 404 -
